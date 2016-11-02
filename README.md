@@ -12,4 +12,4 @@ Will completely cleanup a CLC Site.  It will do the following:
 
 *Cleans up all middleware tools
 
-**Delete all infrastructre (servers, networks, fw rules, load balancers and alerts clc to disable the account and remove from billing)
+*Delete all infrastructre (servers, networks, fw rules, load balancers and alerts clc to disable the account and remove from billing)
